@@ -95,6 +95,7 @@ Correlation between rating, budget, revenue & votes?
 📊 Visualization Examples
 
 Generated charts include:
+
 📍 Genre distribution
 
 📍 Ratings and voting trends
@@ -175,6 +176,9 @@ Collaborative learning
 If GitHub could give Oscars for analytics, this repo would win:
 
 🎖 Best Data Interpretation
+
 🎖 Best README Screenplay
+
 🎖 Best Visualization VFX
+
 🎖 Best Use of Dataset
